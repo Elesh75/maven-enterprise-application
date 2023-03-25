@@ -14,7 +14,7 @@
   
   <properties>
 	<!-- versions -->
-	<sonar.host.url>http://172.31.90.130:9000/</sonar.host.url>
+	<sonar.host.url>http://3.93.218.166:9000/</sonar.host.url>
 	<sonar.login>Tunde</sonar.login>
 	<sonar.password>Tunde12345</sonar.password>
 	<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
